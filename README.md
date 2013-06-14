@@ -20,4 +20,4 @@ sudo yum install fortune cowsay
 sudo apt-get install fortune cowsay
 ```
 
-> You can add this script to your bash config file.(i.e. ~/.bashrc or ~/.bash_profile) to print forturn quote with random cowsay character each time you login to shell. Have Fun :)
+> You can add this script to your bash config file.(i.e. ~/.bashrc or ~/.bash_profile) to print fortume quote with random cowsay character each time you login to shell. Have Fun :)
